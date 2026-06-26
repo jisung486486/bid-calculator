@@ -1,0 +1,12 @@
+[theme]
+# 메인 배경색 (예: 어두운 네이비 또는 다크 그레이)
+backgroundColor = "#fafaf5"
+
+# 사이드바나 확장 메뉴 등 보조 배경색
+secondaryBackgroundColor = "#4daae8"
+
+# 글자색
+textColor = "#080807"
+
+# 버튼을 누르거나 슬라이더를 움직일 때의 강조색 (포인트 컬러)
+primaryColor = "#FF4B4B"
